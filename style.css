@@ -1,0 +1,28 @@
+ .celok {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ }
+#num1{
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+#num2{
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+ .a{
+    margin: 5px;
+    padding: 9px;
+    background-color: slateblue;
+    color:aliceblue;
+    border-style: ridge;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: blueviolet;
+ }
+ .buttons{
+    display: flex;
+    align-items: center;
+ }
